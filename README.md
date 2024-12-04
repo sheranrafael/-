@@ -1,11 +1,13 @@
-# Disney-Hotstar-Clone
-In this video, we're going to show you how to clone the popular streaming service Disney+ using nothing but HTML, CSS, and JavaScript. We'll show you how to create the interface, how to populate it with content, and how to add some basic functionality. This is a great project for anyone who wants to learn how to create a web application from scratch. So if you're ready to get started, watch this video and learn how to clone Disney+!
+# "Disney+"
+Este projeto tem como objetivo recriar a interface da plataforma de streaming Disney Plus. - This project aims to recreate the Disney Plus streaming platform interface.
 
-We will use the following technologies:
+### Tecnologias usadas - Technologies used:
 
 - Html
 - CSS
 - Javascript
+- Adobe Photoshop
 
 ## Preview
-![Disney+ Hotstar clone](https://user-images.githubusercontent.com/59678435/196937651-e83fff0a-cbad-4c6e-b930-50c6bb10d7a8.png)
+![Captura de tela 2024-12-03 221727](https://github.com/user-attachments/assets/7e3fbc89-9d2d-45bb-8b0a-727b57ca64f5)
+
